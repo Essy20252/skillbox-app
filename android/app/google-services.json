@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059948765944",
+    "project_id": "skillbox-4dd19",
+    "storage_bucket": "skillbox-4dd19.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059948765944:android:6ca27af0e7177ccb0e510d",
+        "android_client_info": {
+          "package_name": "com.esther.skillbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjEbA4ZdfPMQ5FpzkOVn14iUsehF8Pst4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
