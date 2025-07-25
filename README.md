@@ -9,9 +9,9 @@ SkillBox is a mobile-first platform designed to empower African youth with **dig
 - 🎓 Learn digital & creative skills (Graphic Design, Canva, Digital Marketing, etc.)
 - 📺 Watch video lessons (YouTube integration)
 - 📝 Take quizzes and earn certificates
-- 💼 Connect to job & freelance opportunities
+- 💼 Connect to job & freelance opportunities (coming soon)
 - 🔐 Secure login, signup, and password reset
-- 💬 Community support features
+- 💬 Community support features (coming soon)
 - 💰 M-Pesa mobile money integration (coming soon)
 
 ---
