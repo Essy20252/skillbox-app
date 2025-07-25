@@ -1,16 +1,49 @@
-# skillbox
+# 💼 SkillBox App – Learn. Earn. Thrive.
 
-A new Flutter project.
+SkillBox is a mobile-first platform designed to empower African youth with **digital skills**, **life skills**, and **real-world job opportunities**. With accessible courses, certifications, community support, and mobile money integration, SkillBox is more than an edtech app — it's a launchpad for success.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🎓 Learn digital & creative skills (Graphic Design, Canva, Digital Marketing, etc.)
+- 📺 Watch video lessons (YouTube integration)
+- 📝 Take quizzes and earn certificates
+- 💼 Connect to job & freelance opportunities
+- 🔐 Secure login, signup, and password reset
+- 💬 Community support features
+- 💰 M-Pesa mobile money integration (coming soon)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Screenshots
+
+> *(Add your screenshots here)*
+
+---
+
+## 🧱 Built With
+
+- **Flutter** (Frontend)
+- **Firebase** (Auth, Firestore, Storage)
+- **YouTube API** (Video content)
+- **M-Pesa API** (Mobile payments – planned)
+- **Netlify** (Web deployment)
+
+---
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Firebase account & project setup
+- Android Studio or VS Code
+
+### Installation
+
+```bash
+git clone https://github.com/your-username/skillbox-app.git
+cd skillbox-app
+flutter pub get
+flutter run
