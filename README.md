@@ -17,9 +17,15 @@ SkillBox is a mobile-first platform designed to empower African youth with **dig
 ---
 
 ## 📷 Screenshots
+### 🔐 Login Page
+![Login Screen](lib/assets/screenshot1.png)
 
-> *(Add your screenshots here)*
+### 🎓 Course List
+![Course List](lib/assets/screenshot2.png)
 
+### 🎓 Youtube Tutorials
+![Youtube Tutorials](lib/assets/screenshot3.png)
+> 
 ---
 
 ## 🧱 Built With
